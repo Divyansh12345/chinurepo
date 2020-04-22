@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text added
+=======
+dgdfgsaddfg
+>>>>>>> 6a4830230e4664d3bdb64d0c6ef5f7c00da6e7aa
